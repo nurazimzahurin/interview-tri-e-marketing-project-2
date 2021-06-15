@@ -11,9 +11,9 @@
    ```shell
     php artisan migrate
    ```
-1. Run artisan serve.
+1. Serve app.
    ```shell
-    php artisan serve
+     php -S localhost:8000 -t public
    ```
 
 ## Features
