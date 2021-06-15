@@ -7,10 +7,6 @@
    ```
 1. Create .env file based on env.example
 1. Configure db in .env
-1. Run artisan key:generate.
-   ```shell
-    php artisan key:generate
-   ```
 1. Run artisan migration.
    ```shell
     php artisan migrate
